@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Filament\Resources\RoomUtilities\Tables;
+namespace App\Filament\Resources\Invoices\Tables;
 
 use Filament\Actions\BulkActionGroup;
 use Filament\Actions\DeleteBulkAction;
 use Filament\Actions\EditAction;
 use Filament\Tables\Table;
 
-class RoomUtilitiesTable
+class InvoicesTable
 {
     public static function configure(Table $table): Table
     {
