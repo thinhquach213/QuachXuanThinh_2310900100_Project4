@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Jnka9YGGusfwYMao9Sbu">
+    <mxGraphModel dx="1196" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ro0jhEApXMgtw4WKd_AF-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="290" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro0jhEApXMgtw4WKd_AF-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Người dùng" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro0jhEApXMgtw4WKd_AF-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="500" width="500" x="225" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro0jhEApXMgtw4WKd_AF-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Xem trang chủ và danh sách các sự kiện" vertex="1">
+          <mxGeometry height="30" width="250" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro0jhEApXMgtw4WKd_AF-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="xem trang chủ và danh sách sự kiện&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="275" x="260" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R6x1Y2J1gZAiKWsjiQPy-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Hiển thị Banner phòng trọ" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R6x1Y2J1gZAiKWsjiQPy-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
